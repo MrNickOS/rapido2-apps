@@ -1,0 +1,101 @@
+﻿{
+  "Rapido" : 
+	{
+       "Estadisticas" : 
+		{
+       "Aciertos1" : 0,
+      
+			"Aciertos2" : 0,
+      
+			"Aciertos3" : 0,
+      
+			"Aciertos4" : 0,
+      
+			"Errores1" : 0,
+      
+			"Errores2" : 0,
+      
+			"Errores3" : 0,
+      
+			"Errores4" : 0
+    
+		},
+    
+		"Preguntas" : {
+      
+			"Pregunta1" : {
+        
+				"Correcta" : "París, Londres, Madrid",
+        
+				"Enunciado" : "Cuales de estas ciudades son capitales europeas?",
+        
+				"Err1" : "Bogotá, Barranquilla, Cartagena",
+        
+				"Err2" : "Santiago, Buenos Aires, Asunción",
+        
+				"Err3" : "Los Ángeles, Miami, Nueva York",
+        
+				"Err4" : "Pekín, Tokyo, Bangkok",
+        
+				"Err5" : "La Paz, Quito, Lima"
+      
+		},
+      
+			"Pregunta2" : {
+        
+				"Correcta" : "1492",
+        
+				"Enunciado" : "En qué año América fue descubierta por Cristóbal Colón?",
+        
+				"Err1" : "1536",
+        
+				"Err2" : "1610",
+        
+				"Err3" : "1784",
+        
+				"Err4" : "1810",
+        
+				"Err5" : "1886"
+      
+		},
+      
+			"Pregunta3" : {
+        
+				"Correcta" : "Pastrana, Uribe y Santos",
+        
+				"Enunciado" : "Los últimos 3 presidentes de Colombia, incluido el actual, fueron:",
+        
+				"Err1" : "Lleras, Betancourt y Gaviria",
+        
+				"Err2" : "Nuñez, Lopez Michelsen y Lopez Pumarejo",
+        
+				"Err3" : "Cipriano de Mosquera, Olaya Herrera y Santos",
+        
+				"Err4" : "Clinton, Reagan y Obama",
+        
+				"Err5" : "Kennedy, Bush y Roosevelt"
+
+		},
+      
+			"Pregunta4" : {
+
+				"Correcta" : "Bill Gates",
+				"Enunciado" : "Quien fue el creador de la compañía Microsoft?",
+
+				"Err1" : "Steve Jobs",
+
+				"Err2" : "Jeff Bezos",
+
+				"Err3" : "Mark Zuckerberg",
+
+				"Err4" : "Sergey Brin",
+
+				"Err5" : "Chad Hurley"
+
+			}
+
+		}
+
+	}
+
+}
